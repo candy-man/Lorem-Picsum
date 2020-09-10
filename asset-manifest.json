@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lorem-Picsum/static/css/main.834f4ecf.chunk.css",
+    "main.js": "/Lorem-Picsum/static/js/main.1a314477.chunk.js",
+    "main.js.map": "/Lorem-Picsum/static/js/main.1a314477.chunk.js.map",
+    "runtime-main.js": "/Lorem-Picsum/static/js/runtime-main.9267ec7d.js",
+    "runtime-main.js.map": "/Lorem-Picsum/static/js/runtime-main.9267ec7d.js.map",
+    "static/css/2.14fbd4c8.chunk.css": "/Lorem-Picsum/static/css/2.14fbd4c8.chunk.css",
+    "static/js/2.065abdef.chunk.js": "/Lorem-Picsum/static/js/2.065abdef.chunk.js",
+    "static/js/2.065abdef.chunk.js.map": "/Lorem-Picsum/static/js/2.065abdef.chunk.js.map",
+    "index.html": "/Lorem-Picsum/index.html",
+    "precache-manifest.abb6d4402217abae52284b3bbdf7512f.js": "/Lorem-Picsum/precache-manifest.abb6d4402217abae52284b3bbdf7512f.js",
+    "service-worker.js": "/Lorem-Picsum/service-worker.js",
+    "static/css/2.14fbd4c8.chunk.css.map": "/Lorem-Picsum/static/css/2.14fbd4c8.chunk.css.map",
+    "static/css/main.834f4ecf.chunk.css.map": "/Lorem-Picsum/static/css/main.834f4ecf.chunk.css.map",
+    "static/js/2.065abdef.chunk.js.LICENSE.txt": "/Lorem-Picsum/static/js/2.065abdef.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Lorem-Picsum/static/media/BalooTamma2-Regular.05aa77b1.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9267ec7d.js",
+    "static/css/2.14fbd4c8.chunk.css",
+    "static/js/2.065abdef.chunk.js",
+    "static/css/main.834f4ecf.chunk.css",
+    "static/js/main.1a314477.chunk.js"
+  ]
+}
